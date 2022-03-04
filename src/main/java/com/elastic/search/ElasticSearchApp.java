@@ -43,10 +43,10 @@ public class ElasticSearchApp
    // 	getApi(client);
     	
     	//elasticsearchdeki verileri javaya id bilmeden çekmek dizi halinde
-   // 	searchApi(client);
+    	searchApi(client);
     	
     	//id bilerek silmek
-    	deleteApi(client);
+   // 	deleteApi(client);
     	
     	//id bilmeden silmek
  //   	deleteQueryApi(client);
